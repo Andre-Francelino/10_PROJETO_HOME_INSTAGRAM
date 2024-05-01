@@ -8,7 +8,7 @@ Clone de tela de login da rede social instagram, desenvolvido no curso <strong>F
 Foram abordados conceitos de estrutura de página semântica, estilização de formulários e layout utilizando o <strong>flexbox</strong>, e na responsividade para dispositivos desktops e mobile.
 
 ### Deploy do projeto no Netlify
-https://main--instagramclone.netlify.app/
+[https://main--instagramclone.netlify.app/](https://main--insta-clonepage.netlify.app/)
 
 
 - ###### Desktop
