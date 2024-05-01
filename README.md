@@ -7,8 +7,8 @@ Clone de tela de login da rede social instagram, desenvolvido no curso <strong>F
 ### Abordagem do projeto
 Foram abordados conceitos de estrutura de página semântica, estilização de formulários e layout utilizando o <strong>flexbox</strong>, e na responsividade para dispositivos desktops e mobile.
 
-### Deploy do projeto no Github Pages
-https://andre-francelino.github.io/projeto-home-instagram-clone/
+### Deploy do projeto no Netlify
+https://main--instagramclone.netlify.app/
 
 
 - ###### Desktop
